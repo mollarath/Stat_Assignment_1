@@ -1,0 +1,200 @@
+Country Name,Country Code,ThirdWorld,Region,2018
+Afghanistan,AFG,1.0,South Asia,32.487
+Albania,ALB,0.0,Eastern Europe,11.78
+Algeria,DZA,0.0,Africa,24.282
+Angola,AGO,1.0,Africa,40.729
+Antigua and Barbuda,ATG,0.0,North America,15.327
+Argentina,ARG,0.0,South America,17.021
+Armenia,ARM,0.0,Western Asia,13.987
+Aruba,ABW,0.0,North America,11.652
+Australia,AUS,0.0,Australia and Oceanea,12.6
+Austria,AUT,0.0,Western Europe,9.7
+Azerbaijan,AZE,0.0,Western Asia,14.0
+"Bahamas, The",BHS,0.0,North America,13.968
+Bahrain,BHR,0.0,Middle East,13.99
+Bangladesh,BGD,1.0,South Asia,18.184
+Barbados,BRB,0.0,North America,10.648
+Belarus,BLR,0.0,Eastern Europe,9.9
+Belgium,BEL,0.0,Western Europe,10.4
+Belize,BLZ,0.0,North America,20.786
+Benin,BEN,1.0,Africa,36.221
+Bhutan,BTN,1.0,South Asia,17.259
+Bolivia,BOL,0.0,South America,21.75
+Bosnia and Herzegovina,BIH,0.0,Eastern Europe,8.111
+Botswana,BWA,0.0,Africa,24.821
+Brazil,BRA,0.0,South America,13.924
+Brunei Darussalam,BRN,0.0,Southeast Asia,14.896
+Bulgaria,BGR,0.0,Eastern Europe,8.9
+Burkina Faso,BFA,1.0,Africa,37.93
+Burundi,BDI,1.0,Africa,39.008
+Cabo Verde,CPV,0.0,Africa,19.49
+Cambodia,KHM,1.0,Southeast Asia,22.464
+Cameroon,CMR,0.0,Africa,35.386
+Canada,CAN,0.0,North America,10.1
+Cayman Islands,CYM,0.0,North America,9.9
+Central African Republic,CAF,1.0,Africa,35.348
+Chad,TCD,1.0,Africa,42.172
+Channel Islands,CHI,0.0,North America,9.861
+Chile,CHL,0.0,South America,12.428
+China,CHN,0.0,East Asia,10.94
+Colombia,COL,0.0,South America,14.882
+Comoros,COM,1.0,Africa,31.881
+"Congo, Dem. Rep.",COD,1.0,Africa,41.183
+"Congo, Rep.",COG,0.0,Africa,32.862
+Costa Rica,CRI,0.0,North America,13.971
+Cote d'Ivoire,CIV,0.0,Africa,35.74
+Croatia,HRV,0.0,Eastern Europe,9.0
+Cuba,CUB,0.0,North America,10.166
+Cyprus,CYP,0.0,Middle East,10.462
+Czech Republic,CZE,0.0,Western Europe,10.7
+Denmark,DNK,0.0,Northern Europe,10.6
+Djibouti,DJI,1.0,Africa,21.466
+Dominican Republic,DOM,0.0,North America,19.506
+Ecuador,ECU,0.0,South America,19.719
+"Egypt, Arab Rep.",EGY,0.0,Africa,26.379
+El Salvador,SLV,0.0,North America,18.253
+Equatorial Guinea,GNQ,0.0,Africa,33.241
+Eritrea,ERI,1.0,Africa,30.302
+Estonia,EST,0.0,Northern Europe,10.9
+Eswatini,SWZ,0.0,Africa,26.342
+Ethiopia,ETH,1.0,Africa,32.339
+Faroe Islands,FRO,0.0,Northern Europe,13.4
+Fiji,FJI,0.0,Australia and Oceanea,21.277
+Finland,FIN,0.0,Northern Europe,8.6
+France,FRA,0.0,Western Europe,11.3
+French Polynesia,PYF,0.0,Australia and Oceanea,14.684
+Gabon,GAB,0.0,Africa,31.611
+"Gambia, The",GMB,1.0,Africa,38.535
+Georgia,GEO,0.0,Western Asia,13.472
+Germany,DEU,0.0,Western Europe,9.5
+Ghana,GHA,0.0,Africa,29.407
+Greece,GRC,0.0,Eastern Europe,8.1
+Greenland,GRL,0.0,Northern Europe,14.6
+Grenada,GRD,0.0,North America,16.465
+Guam,GUM,0.0,Australia and Oceanea,16.579
+Guatemala,GTM,0.0,North America,24.561
+Guinea,GIN,1.0,Africa,36.364
+Guinea-Bissau,GNB,1.0,Africa,35.125
+Guyana,GUY,0.0,South America,19.967
+Haiti,HTI,1.0,North America,24.349
+Honduras,HND,0.0,North America,21.599
+"Hong Kong SAR, China",HKG,0.0,East Asia,7.2
+Hungary,HUN,0.0,Eastern Europe,9.6
+Iceland,ISL,0.0,Northern Europe,12.0
+India,IND,0.0,South Asia,17.857
+Indonesia,IDN,0.0,Southeast Asia,18.072
+"Iran, Islamic Rep.",IRN,0.0,Middle East,18.783
+Iraq,IRQ,0.0,Middle East,29.075
+Ireland,IRL,0.0,Northern Europe,12.5
+Israel,ISR,0.0,Middle East,20.8
+Italy,ITA,0.0,Western Europe,7.3
+Jamaica,JAM,0.0,North America,16.103
+Japan,JPN,0.0,East Asia,7.4
+Jordan,JOR,0.0,Middle East,21.979
+Kazakhstan,KAZ,0.0,Western Asia,21.77
+Kenya,KEN,0.0,Africa,28.748
+Kiribati,KIR,1.0,Australia and Oceanea,27.887
+"Korea, Dem. People's Rep.",PRK,0.0,East Asia,13.89
+"Korea, Rep.",KOR,0.0,East Asia,6.4
+Kosovo,XKX,0.0,Eastern Europe,15.9
+Kuwait,KWT,0.0,Middle East,13.939
+Kyrgyz Republic,KGZ,0.0,Western Asia,27.1
+Lao PDR,LAO,1.0,Southeast Asia,23.549
+Latvia,LVA,0.0,Northern Europe,10.0
+Lebanon,LBN,0.0,Middle East,17.545
+Lesotho,LSO,1.0,Africa,26.808
+Liberia,LBR,1.0,Africa,33.042
+Libya,LBY,0.0,Africa,18.829
+Liechtenstein,LIE,0.0,Western Europe,9.9
+Lithuania,LTU,0.0,Northern Europe,10.0
+Luxembourg,LUX,0.0,Western Europe,10.3
+"Macao SAR, China",MAC,0.0,East Asia,11.058
+Madagascar,MDG,1.0,Africa,32.657
+Malawi,MWI,1.0,Africa,34.118
+Malaysia,MYS,0.0,Southeast Asia,16.752
+Maldives,MDV,0.0,South Asia,14.199
+Mali,MLI,1.0,Africa,41.543
+Malta,MLT,0.0,Western Europe,9.2
+Mauritania,MRT,1.0,Africa,33.694
+Mauritius,MUS,0.0,Africa,10.2
+Mexico,MEX,0.0,North America,17.602
+"Micronesia, Fed. Sts.",FSM,0.0,Australia and Oceanea,22.82
+Moldova,MDA,0.0,Eastern Europe,10.1
+Mongolia,MNG,0.0,East Asia,24.131
+Montenegro,MNE,0.0,Eastern Europe,11.732
+Morocco,MAR,0.0,Africa,18.937
+Mozambique,MOZ,1.0,Africa,37.52
+Myanmar,MMR,1.0,Southeast Asia,17.552
+Namibia,NAM,0.0,Africa,28.639
+Nepal,NPL,1.0,South Asia,19.887
+Netherlands,NLD,0.0,Western Europe,9.8
+New Caledonia,NCL,0.0,Australia and Oceanea,14.2
+New Zealand,NZL,0.0,Australia and Oceanea,11.84
+Nicaragua,NIC,0.0,North America,20.641
+Niger,NER,1.0,Africa,46.079
+Nigeria,NGA,0.0,Africa,37.905
+North Macedonia,MKD,0.0,Eastern Europe,10.811
+Norway,NOR,0.0,Northern Europe,10.4
+Oman,OMN,0.0,Middle East,19.189
+Pakistan,PAK,0.0,South Asia,28.25
+Palau,PLW,0.0,Australia and Oceanea,14.0
+Panama,PAN,0.0,North America,18.976
+Papua New Guinea,PNG,0.0,Australia and Oceanea,27.073
+Paraguay,PRY,0.0,South America,20.571
+Peru,PER,0.0,South America,17.949
+Philippines,PHL,0.0,Southeast Asia,20.546
+Poland,POL,0.0,Eastern Europe,10.2
+Portugal,PRT,0.0,Western Europe,8.5
+Puerto Rico,PRI,0.0,North America,6.7
+Qatar,QAT,0.0,Middle East,9.541
+Romania,ROU,0.0,Eastern Europe,10.4
+Russian Federation,RUS,0.0,Eastern Europe,10.7
+Rwanda,RWA,1.0,Africa,31.696
+Samoa,WSM,0.0,Australia and Oceanea,24.378
+Sao Tome and Principe,STP,1.0,Africa,31.538
+Saudi Arabia,SAU,0.0,Middle East,17.798
+Senegal,SEN,1.0,Africa,34.523
+Seychelles,SYC,0.0,Africa,17.1
+Sierra Leone,SLE,1.0,Africa,33.406
+Singapore,SGP,0.0,Southeast Asia,8.8
+Slovak Republic,SVK,0.0,Eastern Europe,10.6
+Slovenia,SVN,0.0,Western Europe,9.4
+Solomon Islands,SLB,1.0,Australia and Oceanea,32.439
+Somalia,SOM,1.0,Africa,41.753
+South Africa,ZAF,0.0,Africa,20.51
+South Sudan,SSD,1.0,Africa,35.01
+Spain,ESP,0.0,Western Europe,7.9
+Sri Lanka,LKA,0.0,South Asia,15.831
+St. Lucia,LCA,0.0,North America,12.0
+St. Martin (French part),MAF,0.0,Western Europe,14.7
+St. Vincent and the Grenadines,VCT,0.0,North America,14.24
+Sudan,SDN,1.0,Africa,32.177
+Suriname,SUR,0.0,South America,18.542
+Sweden,SWE,0.0,Northern Europe,11.4
+Switzerland,CHE,0.0,Western Europe,10.3
+Syrian Arab Republic,SYR,0.0,Middle East,23.685
+Tajikistan,TJK,0.0,Western Asia,30.761
+Tanzania,TZA,1.0,Africa,36.7
+Thailand,THA,0.0,Thailand,10.344
+Timor-Leste,TLS,1.0,Southeast Asia,29.424
+Togo,TGO,1.0,Africa,33.113
+Tonga,TON,0.0,Australia and Oceanea,24.303
+Trinidad and Tobago,TTO,0.0,North America,12.937
+Tunisia,TUN,0.0,Africa,17.564
+Turkey,TUR,0.0,Middle East,16.027
+Turkmenistan,TKM,0.0,Western Asia,23.831
+Uganda,UGA,1.0,Africa,38.135
+Ukraine,UKR,0.0,Eastern Europe,8.7
+United Arab Emirates,ARE,0.0,Middle East,10.331
+United Kingdom,GBR,0.0,Northern Europe,11.0
+United States,USA,0.0,North America,11.6
+Uruguay,URY,0.0,South America,13.857
+Uzbekistan,UZB,0.0,Western Asia,23.3
+Vanuatu,VUT,1.0,Australia and Oceanea,29.595
+"Venezuela, RB",VEN,0.0,South America,17.881
+Vietnam,VNM,0.0,Southeast Asia,16.745
+Virgin Islands (U.S.),VIR,0.0,North America,12.6
+West Bank and Gaza,PSE,0.0,Middle East,29.282
+"Yemen, Rep.",YEM,1.0,Middle East,30.453
+Zambia,ZMB,1.0,Africa,36.192
+Zimbabwe,ZWE,0.0,Africa,30.676
